@@ -1,0 +1,52 @@
+
+
+
+[
+
+{
+
+
+},
+
+
+{
+
+"tipoTicket":"local",
+"destino":"estacion sur local"
+
+
+
+
+
+},
+
+{
+
+"tipoTicket":"local",
+"destino":"estacion norte local"
+
+
+},
+
+{
+
+ "tipoTicket":"local",
+"destino":"estacion central local"   
+
+},
+
+{
+
+"tipoTicket":"largaDistancia",
+"destino":"cuidad norte"
+
+
+
+},
+{
+
+"tipoTicket":"largaDistancia",
+"destino":"cuidad sur"
+
+}
+]
